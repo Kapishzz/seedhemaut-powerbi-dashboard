@@ -37,7 +37,7 @@ The dataset contains business-related records used for reporting and visualizati
 https://github.com/Kapishzz/seedhemaut-powerbi-dashboard/blob/main/seedhemaut_dashboard.png
 
 ## Files
-- `Seedhemaut_Dashboard.pbix`
+- `seedhemaut_powerbi_project.pbix`
 - Dataset files
 - Documentation
 
